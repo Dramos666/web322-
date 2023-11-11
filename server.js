@@ -1,12 +1,12 @@
 /********************************************************************************
-* WEB322 – Assignment 03
+* WEB322 – Assignment 04
 * 
 * I declare that this assignment is my own work in accordance with Seneca's
 * Academic Integrity Policy:
 * 
 * https://www.senecacollege.ca/about/policies/academic-integrity-policy.html
 * 
-* Name: Subin Sunny  Student ID: 167908219 Date: 10/16/2023
+* Name: Subin Sunny  Student ID: 167908219 Date: 11/11/2023
 *
 *Published URL : https://frail-raincoat-goat.cyclic.app
 *
@@ -73,13 +73,6 @@ app.get('/lego/sets/:set_num', (req, res) => {
     });
 });
 
-// app.get('/lego/sets/theme-demo', (req, res) => {
-//     legoData.getSetsByTheme("Supplemental").then((setByNum=>{
-//         res.json(setByNum);
-//     })).catch(err=>{
-//         res.json({message: "unable to find requested sets"});
-//     });
-// });
 
 app.use((req, res, next) => {
     // res.status(404).sendFile(path.join(__dirname, "/views/404.html"))
