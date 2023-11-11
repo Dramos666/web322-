@@ -1,578 +1,578 @@
 [
     {
-        "14": "4",
-        "473": "686",
-        "1996": "2021",
-        "636-1": "6361096-1",
-        "Pullback Motor": "Lunar New Year Minifigure",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6361096-1.jpg"
-    },
-    {
-        "14": "164",
-        "473": "67",
-        "1996": "1986",
-        "636-1": "6361-1",
-        "Pullback Motor": "Mobile Crane",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6361-1.jpg"
-    },
-    {
-        "14": "136",
-        "473": "67",
-        "1996": "1982",
-        "636-1": "6362-1",
-        "Pullback Motor": "Post Office",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6362-1.jpg"
-    },
-    {
-        "14": "142",
-        "473": "67",
-        "1996": "1980",
-        "636-1": "6363-1",
-        "Pullback Motor": "Auto Service Station",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6363-1.jpg"
-    },
-    {
-        "14": "141",
-        "473": "67",
-        "1996": "1980",
-        "636-1": "6364-1",
-        "Pullback Motor": "Paramedic Unit",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6364-1.jpg"
-    },
-    {
-        "14": "153",
-        "473": "67",
-        "1996": "1981",
-        "636-1": "6365-1",
-        "Pullback Motor": "Summer Cottage",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6365-1.jpg"
-    },
-    {
-        "14": "116",
-        "473": "67",
-        "1996": "1984",
-        "636-1": "6366-1",
-        "Pullback Motor": "Fire & Rescue Squad",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6366-1.jpg"
-    },
-    {
-        "14": "156",
-        "473": "67",
-        "1996": "1984",
-        "636-1": "6367-1",
-        "Pullback Motor": "Truck",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6367-1.jpg"
-    },
-    {
-        "14": "137",
-        "473": "67",
-        "1996": "1985",
-        "636-1": "6368-1",
-        "Pullback Motor": "Jet Airliner",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6368-1.jpg"
-    },
-    {
-        "14": "135",
-        "473": "67",
-        "1996": "1985",
-        "636-1": "6369-1",
-        "Pullback Motor": "Garage",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6369-1.jpg"
-    },
-    {
-        "14": "187",
-        "473": "67",
-        "1996": "1985",
-        "636-1": "6370-1",
-        "Pullback Motor": "Weekend Home",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6370-1.jpg"
-    },
-    {
-        "14": "3",
-        "473": "473",
-        "1996": "1996",
-        "636-1": "637-1",
-        "Pullback Motor": "Plastic Playtable",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/637-1.jpg"
-    },
-    {
-        "14": "268",
-        "473": "67",
-        "1996": "1983",
-        "636-1": "6371-1",
-        "Pullback Motor": "Shell Service Station",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6371-1.jpg"
+        "num_parts": "4",
+        "theme_id": "686",
+        "year": "2021",
+        "set_num": "6361096-1",
+        "name": "Lunar New Year Minifigure",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6361096-1.jpg"
+    },
+    {
+        "num_parts": "164",
+        "theme_id": "67",
+        "year": "1986",
+        "set_num": "6361-1",
+        "name": "Mobile Crane",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6361-1.jpg"
+    },
+    {
+        "num_parts": "136",
+        "theme_id": "67",
+        "year": "1982",
+        "set_num": "6362-1",
+        "name": "Post Office",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6362-1.jpg"
+    },
+    {
+        "num_parts": "142",
+        "theme_id": "67",
+        "year": "1980",
+        "set_num": "6363-1",
+        "name": "Auto Service Station",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6363-1.jpg"
+    },
+    {
+        "num_parts": "141",
+        "theme_id": "67",
+        "year": "1980",
+        "set_num": "6364-1",
+        "name": "Paramedic Unit",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6364-1.jpg"
+    },
+    {
+        "num_parts": "153",
+        "theme_id": "67",
+        "year": "1981",
+        "set_num": "6365-1",
+        "name": "Summer Cottage",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6365-1.jpg"
+    },
+    {
+        "num_parts": "116",
+        "theme_id": "67",
+        "year": "1984",
+        "set_num": "6366-1",
+        "name": "Fire & Rescue Squad",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6366-1.jpg"
+    },
+    {
+        "num_parts": "156",
+        "theme_id": "67",
+        "year": "1984",
+        "set_num": "6367-1",
+        "name": "Truck",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6367-1.jpg"
+    },
+    {
+        "num_parts": "137",
+        "theme_id": "67",
+        "year": "1985",
+        "set_num": "6368-1",
+        "name": "Jet Airliner",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6368-1.jpg"
+    },
+    {
+        "num_parts": "135",
+        "theme_id": "67",
+        "year": "1985",
+        "set_num": "6369-1",
+        "name": "Garage",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6369-1.jpg"
+    },
+    {
+        "num_parts": "187",
+        "theme_id": "67",
+        "year": "1985",
+        "set_num": "6370-1",
+        "name": "Weekend Home",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6370-1.jpg"
+    },
+    {
+        "num_parts": "3",
+        "theme_id": "theme_id",
+        "year": "year",
+        "set_num": "637-1",
+        "name": "Plastic Playtable",
+        "img_url": "https://cdn.rebrickable.com/media/sets/637-1.jpg"
+    },
+    {
+        "num_parts": "268",
+        "theme_id": "67",
+        "year": "1983",
+        "set_num": "6371-1",
+        "name": "Shell Service Station",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6371-1.jpg"
     },
     {
-        "14": "235",
-        "473": "67",
-        "1996": "1982",
-        "636-1": "6372-1",
-        "Pullback Motor": "Town House",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6372-1.jpg"
+        "num_parts": "235",
+        "theme_id": "67",
+        "year": "1982",
+        "set_num": "6372-1",
+        "name": "Town House",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6372-1.jpg"
     },
     {
-        "14": "188",
-        "473": "67",
-        "1996": "1984",
-        "636-1": "6373-1",
-        "Pullback Motor": "Motorcycle Shop",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6373-1.jpg"
+        "num_parts": "188",
+        "theme_id": "67",
+        "year": "1984",
+        "set_num": "6373-1",
+        "name": "Motorcycle Shop",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6373-1.jpg"
     },
     {
-        "14": "266",
-        "473": "67",
-        "1996": "1983",
-        "636-1": "6374-1",
-        "Pullback Motor": "Holiday Home",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6374-1.jpg"
+        "num_parts": "266",
+        "theme_id": "67",
+        "year": "1983",
+        "set_num": "6374-1",
+        "name": "Holiday Home",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6374-1.jpg"
     },
     {
-        "14": "152",
-        "473": "598",
-        "1996": "2021",
-        "636-1": "6374338-1",
-        "Pullback Motor": "Swing Ship Ride",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6374338-1.jpg"
+        "num_parts": "152",
+        "theme_id": "598",
+        "year": "2021",
+        "set_num": "6374338-1",
+        "name": "Swing Ship Ride",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6374338-1.jpg"
     },
     {
-        "14": "205",
-        "473": "67",
-        "1996": "1990",
-        "636-1": "6375-1",
-        "Pullback Motor": "Trans Air Carrier",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6375-1.jpg"
+        "num_parts": "205",
+        "theme_id": "67",
+        "year": "1990",
+        "set_num": "6375-1",
+        "name": "Trans Air Carrier",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6375-1.jpg"
     },
     {
-        "14": "271",
-        "473": "67",
-        "1996": "1980",
-        "636-1": "6375-2",
-        "Pullback Motor": "Exxon Gas Station",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6375-2.jpg"
+        "num_parts": "271",
+        "theme_id": "67",
+        "year": "1980",
+        "set_num": "6375-2",
+        "name": "Exxon Gas Station",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6375-2.jpg"
     },
     {
-        "14": "195",
-        "473": "67",
-        "1996": "1990",
-        "636-1": "6376-1",
-        "Pullback Motor": "Breezeway Cafe",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6376-1.jpg"
+        "num_parts": "195",
+        "theme_id": "67",
+        "year": "1990",
+        "set_num": "6376-1",
+        "name": "Breezeway Cafe",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6376-1.jpg"
     },
     {
-        "14": "307",
-        "473": "67",
-        "1996": "1985",
-        "636-1": "6377-1",
-        "Pullback Motor": "Delivery Center",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6377-1.jpg"
+        "num_parts": "307",
+        "theme_id": "67",
+        "year": "1985",
+        "set_num": "6377-1",
+        "name": "Delivery Center",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6377-1.jpg"
     },
     {
-        "14": "292",
-        "473": "67",
-        "1996": "1986",
-        "636-1": "6378-1",
-        "Pullback Motor": "Shell Service Station",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6378-1.jpg"
+        "num_parts": "292",
+        "theme_id": "67",
+        "year": "1986",
+        "set_num": "6378-1",
+        "name": "Shell Service Station",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6378-1.jpg"
     },
     {
-        "14": "282",
-        "473": "67",
-        "1996": "1986",
-        "636-1": "6379-1",
-        "Pullback Motor": "Riding Stable",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6379-1.jpg"
+        "num_parts": "282",
+        "theme_id": "67",
+        "year": "1986",
+        "set_num": "6379-1",
+        "name": "Riding Stable",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6379-1.jpg"
     },
     {
-        "14": "0",
-        "473": "690",
-        "1996": "2022",
-        "636-1": "6379533-1",
-        "Pullback Motor": "Character Pack Series 4 - Sealed Box",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6379533-1.jpg"
+        "num_parts": "0",
+        "theme_id": "690",
+        "year": "2022",
+        "set_num": "6379533-1",
+        "name": "Character Pack Series 4 - Sealed Box",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6379533-1.jpg"
     },
     {
-        "14": "0",
-        "473": "690",
-        "1996": "2022",
-        "636-1": "6379553-1",
-        "Pullback Motor": "Character Pack Series 5 - Sealed Box",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6379553-1.jpg"
+        "num_parts": "0",
+        "theme_id": "690",
+        "year": "2022",
+        "set_num": "6379553-1",
+        "name": "Character Pack Series 5 - Sealed Box",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6379553-1.jpg"
     },
     {
-        "14": "293",
-        "473": "67",
-        "1996": "1987",
-        "636-1": "6380-1",
-        "Pullback Motor": "Emergency Treatment Center",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6380-1.jpg"
+        "num_parts": "293",
+        "theme_id": "67",
+        "year": "1987",
+        "set_num": "6380-1",
+        "name": "Emergency Treatment Center",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6380-1.jpg"
     },
     {
-        "14": "404",
-        "473": "467",
-        "1996": "1996",
-        "636-1": "638-1",
-        "Pullback Motor": "\"Lots of Extra Basic Bricks, 3+\"",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/638-1.jpg"
+        "num_parts": "404",
+        "theme_id": "467",
+        "year": "year",
+        "set_num": "638-1",
+        "name": "\"Lots of Extra Basic Bricks, 3+\"",
+        "img_url": "https://cdn.rebrickable.com/media/sets/638-1.jpg"
     },
     {
-        "14": "206",
-        "473": "67",
-        "1996": "1987",
-        "636-1": "6381-1",
-        "Pullback Motor": "Motor Speedway",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6381-1.jpg"
+        "num_parts": "206",
+        "theme_id": "67",
+        "year": "1987",
+        "set_num": "6381-1",
+        "name": "Motor Speedway",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6381-1.jpg"
     },
     {
-        "14": "396",
-        "473": "67",
-        "1996": "1981",
-        "636-1": "6382-1",
-        "Pullback Motor": "Fire Station",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6382-1.jpg"
+        "num_parts": "396",
+        "theme_id": "67",
+        "year": "1981",
+        "set_num": "6382-1",
+        "name": "Fire Station",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6382-1.jpg"
     },
     {
-        "14": "56",
-        "473": "158",
-        "1996": "2021",
-        "636-1": "6382975-1",
-        "Pullback Motor": "Tantive IV",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6382975-1.jpg"
+        "num_parts": "56",
+        "theme_id": "158",
+        "year": "2021",
+        "set_num": "6382975-1",
+        "name": "Tantive IV",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6382975-1.jpg"
     },
     {
-        "14": "419",
-        "473": "67",
-        "1996": "1981",
-        "636-1": "6383-1",
-        "Pullback Motor": "Public Works Center",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6383-1.jpg"
+        "num_parts": "419",
+        "theme_id": "67",
+        "year": "1981",
+        "set_num": "6383-1",
+        "name": "Public Works Center",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6383-1.jpg"
     },
     {
-        "14": "399",
-        "473": "67",
-        "1996": "1983",
-        "636-1": "6384-1",
-        "Pullback Motor": "Police Station",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6384-1.jpg"
+        "num_parts": "399",
+        "theme_id": "67",
+        "year": "1983",
+        "set_num": "6384-1",
+        "name": "Police Station",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6384-1.jpg"
     },
     {
-        "14": "129",
-        "473": "408",
-        "1996": "2021",
-        "636-1": "6384212-1",
-        "Pullback Motor": "Stuttgart Brand Store Opening Associate Figure",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6384212-1.jpg"
+        "num_parts": "129",
+        "theme_id": "408",
+        "year": "2021",
+        "set_num": "6384212-1",
+        "name": "Stuttgart Brand Store Opening Associate Figure",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6384212-1.jpg"
     },
     {
-        "14": "130",
-        "473": "408",
-        "1996": "2021",
-        "636-1": "6384214-1",
-        "Pullback Motor": "New York 5th Avenue Brand Store Opening Associate Figure",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6384214-1.jpg"
+        "num_parts": "130",
+        "theme_id": "408",
+        "year": "2021",
+        "set_num": "6384214-1",
+        "name": "New York 5th Avenue Brand Store Opening Associate Figure",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6384214-1.jpg"
     },
     {
-        "14": "129",
-        "473": "408",
-        "1996": "2021",
-        "636-1": "6384339-1",
-        "Pullback Motor": "Edinburgh Brand Store Opening Associate Figure",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6384339-1.jpg"
+        "num_parts": "129",
+        "theme_id": "408",
+        "year": "2021",
+        "set_num": "6384339-1",
+        "name": "Edinburgh Brand Store Opening Associate Figure",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6384339-1.jpg"
     },
     {
-        "14": "129",
-        "473": "408",
-        "1996": "2021",
-        "636-1": "6384342-1",
-        "Pullback Motor": "Warsaw Brand Store Opening Associate Figure",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6384342-1.jpg"
+        "num_parts": "129",
+        "theme_id": "408",
+        "year": "2021",
+        "set_num": "6384342-1",
+        "name": "Warsaw Brand Store Opening Associate Figure",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6384342-1.jpg"
     },
     {
-        "14": "129",
-        "473": "408",
-        "1996": "2021",
-        "636-1": "6384344-1",
-        "Pullback Motor": "Tivoli Gardens Brand Store Opening Associate Figure",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6384344-1.jpg"
+        "num_parts": "129",
+        "theme_id": "408",
+        "year": "2021",
+        "set_num": "6384344-1",
+        "name": "Tivoli Gardens Brand Store Opening Associate Figure",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6384344-1.jpg"
     },
     {
-        "14": "129",
-        "473": "408",
-        "1996": "2021",
-        "636-1": "6384346-1",
-        "Pullback Motor": "Barcelona Brand Store Opening Associate Figure",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6384346-1.jpg"
+        "num_parts": "129",
+        "theme_id": "408",
+        "year": "2021",
+        "set_num": "6384346-1",
+        "name": "Barcelona Brand Store Opening Associate Figure",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6384346-1.jpg"
     },
     {
-        "14": "11",
-        "473": "301",
-        "1996": "2021",
-        "636-1": "6384690-1",
-        "Pullback Motor": "LEGO Play Day 2021 Braille Bricks",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6384690-1.jpg"
+        "num_parts": "11",
+        "theme_id": "301",
+        "year": "2021",
+        "set_num": "6384690-1",
+        "name": "LEGO Play Day 2021 Braille Bricks",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6384690-1.jpg"
     },
     {
-        "14": "151",
-        "473": "157",
-        "1996": "2021",
-        "636-1": "6384693-1",
-        "Pullback Motor": "Little Red Riding Hood Book",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6384693-1.jpg"
+        "num_parts": "151",
+        "theme_id": "157",
+        "year": "2021",
+        "set_num": "6384693-1",
+        "name": "Little Red Riding Hood Book",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6384693-1.jpg"
     },
     {
-        "14": "144",
-        "473": "157",
-        "1996": "2021",
-        "636-1": "6384694-1",
-        "Pullback Motor": "Alice's Adventures in Wonderland Book",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6384694-1.jpg"
+        "num_parts": "144",
+        "theme_id": "157",
+        "year": "2021",
+        "set_num": "6384694-1",
+        "name": "Alice's Adventures in Wonderland Book",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6384694-1.jpg"
     },
     {
-        "14": "149",
-        "473": "157",
-        "1996": "2021",
-        "636-1": "6384695-1",
-        "Pullback Motor": "Jack and the Beanstalk Book",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6384695-1.jpg"
+        "num_parts": "149",
+        "theme_id": "157",
+        "year": "2021",
+        "set_num": "6384695-1",
+        "name": "Jack and the Beanstalk Book",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6384695-1.jpg"
     },
     {
-        "14": "154",
-        "473": "157",
-        "1996": "2021",
-        "636-1": "6384696-1",
-        "Pullback Motor": "Hansel and Gretel Book",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6384696-1.jpg"
+        "num_parts": "154",
+        "theme_id": "157",
+        "year": "2021",
+        "set_num": "6384696-1",
+        "name": "Hansel and Gretel Book",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6384696-1.jpg"
     },
     {
-        "14": "9",
-        "473": "598",
-        "1996": "2021",
-        "636-1": "6384705-1",
-        "Pullback Motor": "TMALL 1st Anniversary Exclusive Set",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6384705-1.jpg"
+        "num_parts": "9",
+        "theme_id": "598",
+        "year": "2021",
+        "set_num": "6384705-1",
+        "name": "TMALL 1st Anniversary Exclusive Set",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6384705-1.jpg"
     },
     {
-        "14": "416",
-        "473": "67",
-        "1996": "1985",
-        "636-1": "6385-1",
-        "Pullback Motor": "Fire House-I",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6385-1.jpg"
+        "num_parts": "416",
+        "theme_id": "67",
+        "year": "1985",
+        "set_num": "6385-1",
+        "name": "Fire House-I",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6385-1.jpg"
     },
     {
-        "14": "37",
-        "473": "408",
-        "1996": "2019",
-        "636-1": "6385416-1",
-        "Pullback Motor": "Summer Sailboat",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6385416-1.jpg"
+        "num_parts": "37",
+        "theme_id": "408",
+        "year": "2019",
+        "set_num": "6385416-1",
+        "name": "Summer Sailboat",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6385416-1.jpg"
     },
     {
-        "14": "20",
-        "473": "408",
-        "1996": "2021",
-        "636-1": "6385428-1",
-        "Pullback Motor": "Trophy",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6385428-1.jpg"
+        "num_parts": "20",
+        "theme_id": "408",
+        "year": "2021",
+        "set_num": "6385428-1",
+        "name": "Trophy",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6385428-1.jpg"
     },
     {
-        "14": "35",
-        "473": "246",
-        "1996": "2018",
-        "636-1": "6385434-1",
-        "Pullback Motor": "Golden Snitch",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6385434-1.jpg"
+        "num_parts": "35",
+        "theme_id": "246",
+        "year": "2018",
+        "set_num": "6385434-1",
+        "name": "Golden Snitch",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6385434-1.jpg"
     },
     {
-        "14": "85",
-        "473": "688",
-        "1996": "2022",
-        "636-1": "6385440-1",
-        "Pullback Motor": "DOTS Sampler",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6385440-1.jpg"
+        "num_parts": "85",
+        "theme_id": "688",
+        "year": "2022",
+        "set_num": "6385440-1",
+        "name": "DOTS Sampler",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6385440-1.jpg"
     },
     {
-        "14": "28",
-        "473": "206",
-        "1996": "2018",
-        "636-1": "6385444-1",
-        "Pullback Motor": "Birthday Cake",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6385444-1.jpg"
+        "num_parts": "28",
+        "theme_id": "206",
+        "year": "2018",
+        "set_num": "6385444-1",
+        "name": "Birthday Cake",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6385444-1.jpg"
     },
     {
-        "14": "0",
-        "473": "718",
-        "1996": "2022",
-        "636-1": "6385680-1",
-        "Pullback Motor": "Series 22 - Sealed Box",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6385680-1.jpg"
+        "num_parts": "0",
+        "theme_id": "718",
+        "year": "2022",
+        "set_num": "6385680-1",
+        "name": "Series 22 - Sealed Box",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6385680-1.jpg"
     },
     {
-        "14": "0",
-        "473": "408",
-        "1996": "2021",
-        "636-1": "6385891-1",
-        "Pullback Motor": "Brick Lab",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6385891-1.jpg"
+        "num_parts": "0",
+        "theme_id": "408",
+        "year": "2021",
+        "set_num": "6385891-1",
+        "name": "Brick Lab",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6385891-1.jpg"
     },
     {
-        "14": "397",
-        "473": "67",
-        "1996": "1986",
-        "636-1": "6386-1",
-        "Pullback Motor": "Police Command Base",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6386-1.jpg"
+        "num_parts": "397",
+        "theme_id": "67",
+        "year": "1986",
+        "set_num": "6386-1",
+        "name": "Police Command Base",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6386-1.jpg"
     },
     {
-        "14": "107",
-        "473": "599",
-        "1996": "2021",
-        "636-1": "6386182-1",
-        "Pullback Motor": "LEGO Masters Mini Build",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6386182-1.jpg"
+        "num_parts": "107",
+        "theme_id": "599",
+        "year": "2021",
+        "set_num": "6386182-1",
+        "name": "LEGO Masters Mini Build",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6386182-1.jpg"
     },
     {
-        "14": "374",
-        "473": "67",
-        "1996": "1989",
-        "636-1": "6387-1",
-        "Pullback Motor": "Coastal Rescue Base",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6387-1.jpg"
+        "num_parts": "374",
+        "theme_id": "67",
+        "year": "1989",
+        "set_num": "6387-1",
+        "name": "Coastal Rescue Base",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6387-1.jpg"
     },
     {
-        "14": "363",
-        "473": "67",
-        "1996": "1989",
-        "636-1": "6388-1",
-        "Pullback Motor": "Holiday Home with Caravan",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6388-1.jpg"
+        "num_parts": "363",
+        "theme_id": "67",
+        "year": "1989",
+        "set_num": "6388-1",
+        "name": "Holiday Home with Caravan",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6388-1.jpg"
     },
     {
-        "14": "540",
-        "473": "67",
-        "1996": "1990",
-        "636-1": "6389-1",
-        "Pullback Motor": "Fire Control Center",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6389-1.jpg"
+        "num_parts": "540",
+        "theme_id": "67",
+        "year": "1990",
+        "set_num": "6389-1",
+        "name": "Fire Control Center",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6389-1.jpg"
     },
     {
-        "14": "607",
-        "473": "67",
-        "1996": "1980",
-        "636-1": "6390-1",
-        "Pullback Motor": "Main Street",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6390-1.jpg"
+        "num_parts": "607",
+        "theme_id": "67",
+        "year": "1980",
+        "set_num": "6390-1",
+        "name": "Main Street",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6390-1.jpg"
     },
     {
-        "14": "400",
-        "473": "467",
-        "1996": "1997",
-        "636-1": "639-1",
-        "Pullback Motor": "\"Lots of Extra Basic Bricks, 5+\"",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/639-1.jpg"
+        "num_parts": "400",
+        "theme_id": "467",
+        "year": "1997",
+        "set_num": "639-1",
+        "name": "\"Lots of Extra Basic Bricks, 5+\"",
+        "img_url": "https://cdn.rebrickable.com/media/sets/639-1.jpg"
     },
     {
-        "14": "567",
-        "473": "67",
-        "1996": "1984",
-        "636-1": "6391-1",
-        "Pullback Motor": "Cargo Center",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6391-1.jpg"
-    },
-    {
-        "14": "538",
-        "473": "67",
-        "1996": "1985",
-        "636-1": "6392-1",
-        "Pullback Motor": "Airport",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6392-1.jpg"
-    },
-    {
-        "14": "60",
-        "473": "227",
-        "1996": "2021",
-        "636-1": "6392262-1",
-        "Pullback Motor": "Christmas 4-in-1 Builds",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6392262-1.jpg"
-    },
-    {
-        "14": "635",
-        "473": "67",
-        "1996": "1987",
-        "636-1": "6393-1",
-        "Pullback Motor": "Big Rig Truck Stop",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6393-1.jpg"
-    },
-    {
-        "14": "631",
-        "473": "67",
-        "1996": "1988",
-        "636-1": "6394-1",
-        "Pullback Motor": "Metro Park & Service Tower",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6394-1.jpg"
-    },
-    {
-        "14": "60",
-        "473": "686",
-        "1996": "2022",
-        "636-1": "6394783-1",
-        "Pullback Motor": "Lunar New Year 4-in-1 Builds",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6394783-1.jpg"
-    },
-    {
-        "14": "614",
-        "473": "67",
-        "1996": "1988",
-        "636-1": "6395-1",
-        "Pullback Motor": "Victory Lap Raceway",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6395-1.jpg"
-    },
-    {
-        "14": "554",
-        "473": "67",
-        "1996": "1990",
-        "636-1": "6396-1",
-        "Pullback Motor": "International Jetport",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6396-1.jpg"
-    },
-    {
-        "14": "28",
-        "473": "206",
-        "1996": "2022",
-        "636-1": "6396384-1",
-        "Pullback Motor": "Tiger",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6396384-1.jpg"
-    },
-    {
-        "14": "474",
-        "473": "67",
-        "1996": "1992",
-        "636-1": "6397-1",
-        "Pullback Motor": "Gas N' Wash Express",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6397-1.jpg"
-    },
-    {
-        "14": "635",
-        "473": "67",
-        "1996": "1993",
-        "636-1": "6398-1",
-        "Pullback Motor": "Central Precinct HQ",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6398-1.jpg"
-    },
-    {
-        "14": "786",
-        "473": "67",
-        "1996": "1990",
-        "636-1": "6399-1",
-        "Pullback Motor": "Airport Shuttle",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6399-1.jpg"
-    },
-    {
-        "14": "0",
-        "473": "501",
-        "1996": "2017",
-        "636-1": "6399425-1",
-        "Pullback Motor": "The Lego Store Passport",
-        "https://cdn.rebrickable.com/media/sets/636-1.jpg": "https://cdn.rebrickable.com/media/sets/6399425-1.jpg"
+        "num_parts": "567",
+        "theme_id": "67",
+        "year": "1984",
+        "set_num": "6391-1",
+        "name": "Cargo Center",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6391-1.jpg"
+    },
+    {
+        "num_parts": "538",
+        "theme_id": "67",
+        "year": "1985",
+        "set_num": "6392-1",
+        "name": "Airport",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6392-1.jpg"
+    },
+    {
+        "num_parts": "60",
+        "theme_id": "227",
+        "year": "2021",
+        "set_num": "6392262-1",
+        "name": "Christmas 4-in-1 Builds",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6392262-1.jpg"
+    },
+    {
+        "num_parts": "635",
+        "theme_id": "67",
+        "year": "1987",
+        "set_num": "6393-1",
+        "name": "Big Rig Truck Stop",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6393-1.jpg"
+    },
+    {
+        "num_parts": "631",
+        "theme_id": "67",
+        "year": "1988",
+        "set_num": "6394-1",
+        "name": "Metro Park & Service Tower",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6394-1.jpg"
+    },
+    {
+        "num_parts": "60",
+        "theme_id": "686",
+        "year": "2022",
+        "set_num": "6394783-1",
+        "name": "Lunar New Year 4-in-1 Builds",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6394783-1.jpg"
+    },
+    {
+        "num_parts": "614",
+        "theme_id": "67",
+        "year": "1988",
+        "set_num": "6395-1",
+        "name": "Victory Lap Raceway",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6395-1.jpg"
+    },
+    {
+        "num_parts": "554",
+        "theme_id": "67",
+        "year": "1990",
+        "set_num": "6396-1",
+        "name": "International Jetport",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6396-1.jpg"
+    },
+    {
+        "num_parts": "28",
+        "theme_id": "206",
+        "year": "2022",
+        "set_num": "6396384-1",
+        "name": "Tiger",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6396384-1.jpg"
+    },
+    {
+        "num_parts": "474",
+        "theme_id": "67",
+        "year": "1992",
+        "set_num": "6397-1",
+        "name": "Gas N' Wash Express",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6397-1.jpg"
+    },
+    {
+        "num_parts": "635",
+        "theme_id": "67",
+        "year": "1993",
+        "set_num": "6398-1",
+        "name": "Central Precinct HQ",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6398-1.jpg"
+    },
+    {
+        "num_parts": "786",
+        "theme_id": "67",
+        "year": "1990",
+        "set_num": "6399-1",
+        "name": "Airport Shuttle",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6399-1.jpg"
+    },
+    {
+        "num_parts": "0",
+        "theme_id": "501",
+        "year": "2017",
+        "set_num": "6399425-1",
+        "name": "The Lego Store Passport",
+        "img_url": "https://cdn.rebrickable.com/media/sets/6399425-1.jpg"
     }
 ]
