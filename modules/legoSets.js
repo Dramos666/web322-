@@ -45,6 +45,8 @@ const Set = sequelize.define('Set', {
   updatedAt: false, // disable updatedAt
 });
 
+Set.belongsTo(Theme, { foreignKey: 'theme_id' });
+
 
 sequelize
   .authenticate()
