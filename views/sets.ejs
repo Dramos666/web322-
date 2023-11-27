@@ -8,7 +8,8 @@
   <link rel="stylesheet" href="/css/main.css" />
 </head>
 
-<body >
+<body tabindex="-1">
+
     <%- include('partials/navbar', {page: "/lego/sets"}) %>
 
 
@@ -26,32 +27,32 @@
         <div class="overflow-x-auto overflow-y-hidden">
             <table class="table table-zebra">
               <tbody>
-                <!-- row 1 -->
+              <% sets.forEach(set=> { %>
+
                 <tr>
-                    <% sets.forEach(user=>{ %>
-                        <tr>
-                            <td>
-                                <div class="avatar">
-                                    <div class="w-24 rounded">
-                                      <img src=<%= user.img_url %> />
-                                    </div>
-                                </div>
-                            </td>
-                            <td>
-                                <%= user.name %> | <a href=<%= "/lego/sets?theme=" + user.theme %> class="btn  mt-2 btn-xs"><%= user.theme %></a>
-                            </td>
-                            <td><span class="font-bold">Year: </span> <%= user.year %> - <span class="font-bold">Parts:</span> <%= user.num_parts %></td>
-                            <th>
-                            <a href=<%= "/lego/sets/" + user.set_num %> class="btn btn-xs">details</a>
-                            </th>
-                            
-                        </tr>
-
-                        
-                      <% }) %>
-
-              
-            </table>
+                  <td>
+                    <div class="avatar">
+                        <div class="w-24 rounded">
+                          <img src=<%= set.img_url %> />
+                        </div>
+                    </div>
+                </td>
+  
+                  <td>
+                    <%= set.name %> | <a href="/lego/sets?theme=<%= set.Theme.name %>" class="btn  mt-2 btn-xs"><%= set.Theme.name %></a>
+                  </td>
+  
+                  <td><span class="font-bold">Year: </span> <%= set.year %> - <span class="font-bold">Parts:</span> <%= set.num_parts %></td>
+                  <th>
+                    <a href="/lego/sets/<%= set.set_num %>" class="btn btn-xs">details</a>
+                  </th>
+  
+  
+                </tr>
+  
+                <% }); %>
+  
+            </tbody>
         </div>
     </div>
 </body>

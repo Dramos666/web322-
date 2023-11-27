@@ -8,7 +8,8 @@
   <link rel="stylesheet" href="/css/main.css" />
 </head>
 
-<body >
+<body tabindex="-1">
+
     <!-- <nav>
         <h2><a href="/">Lego Collection</a></h2>
         <a href="/about">About</a>
@@ -38,7 +39,7 @@
        <p>
         <span class="font-bold">Set Name: </span> <%= set.name %> <br />
         <span class="font-bold">Year Released: </span> <%= set.year %> <br />
-        <span class="font-bold">Theme: </span> <%= set.theme %> <br />
+        <span class="font-bold">Theme: </span> <%= set.Theme.name %> <br />
         <span class="font-bold">Number of Parts: </span> <%= set.num_parts %> <br /><br />
 
         <span id="quote"></span>
