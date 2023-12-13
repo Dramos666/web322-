@@ -13,6 +13,8 @@
 ********************************************************************************/
 
 const legoData = require("./modules/legoSets");
+const authData = require("./modules/auth-service");
+const clientSessions = require("client-sessions");
 const path = require("path");
 
 const express = require('express');
@@ -25,12 +27,80 @@ app.use(express.urlencoded({extended: true}));
 
 app.set('view engine', 'ejs');
 
+
+
+app.use(
+  clientSessions({
+    cookieName: 'session', // this is the object name that will be added to 'req'
+    secret: 'o6LjQ5EVNC28ZgK64hDELM18ScpFQr', // this should be a long un-guessable string.
+    duration: 10 * 60 * 1000, // duration of the session in milliseconds (2 minutes)
+    activeDuration: 1000 * 600, // the session will be extended by this many ms each request (1 minute)
+  })
+);
+app.use((req, res, next) => {
+  res.locals.session = req.session;
+  next();
+});
+
+
+function ensureLogin(req, res, next) {
+  if (!req.session.user) {
+    res.redirect('/login');
+  } else {
+    next();
+  }
+}
+
 app.get('/', (req, res) => {
   res.render("home")
 });
 
 app.get('/about', (req, res) => {
   res.render("about");
+});
+
+// GET route to render the login view
+app.get('/login', (req, res) => {
+  res.render('login', { errorMessage: '', userName: '' }); // Adjust the view name accordingly
+});
+
+// GET route to render the register view
+app.get('/register', (req, res) => {
+  res.render('register', { successMessage:'', errorMessage: '', userName: '' }); // Adjust the view name accordingly
+});
+
+// POST route for user registration
+app.post('/register', (req, res) => {
+  authData.registerUser(req.body)
+      .then(() => res.render('register', { successMessage: 'User created', errorMessage: '', userName: '' }))
+      .catch((err) => res.render('register', { successMessage:'', errorMessage: err, userName: req.body.userName }));
+});
+
+// POST route for user login
+app.post('/login', (req, res) => {
+  req.body.userAgent = req.get('User-Agent');
+
+  authData.checkUser(req.body)
+      .then((user) => {
+          req.session.user = {
+              userName: user.userName,
+              email: user.email,
+              loginHistory: user.loginHistory
+          };
+          res.redirect('/lego/sets');
+      })
+      .catch((err) => res.render('login', { errorMessage: err, userName: req.body.userName }));
+});
+
+// GET route for user logout
+app.get('/logout', (req, res) => {
+  req.session.reset();
+  res.redirect('/');
+});
+
+// GET route to render the userHistory view
+app.get('/userHistory', ensureLogin, (req, res) => {
+  res.render('userHistory'); // Adjust the view name accordingly
 });
 
 app.get("/lego/sets", async (req,res)=>{
