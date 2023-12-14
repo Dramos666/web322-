@@ -45,11 +45,7 @@ function ensureLogin(req, res, next) {
     next();
   }
 }
-legoData.initialize()
-.then(authData.initialize)
-.then(()=>{
-  app.listen(HTTP_PORT, () => console.log(`server listening on: ${HTTP_PORT}`));
-})
+
 app.get("/",(req, res)=> {
   res.render("home");
 });
@@ -201,3 +197,9 @@ app.post('/lego/addSet', ensureLogin,(req, res) => {
  app.get("/userHistory",ensureLogin,(req,res)=>{
   res.render("userHistory");
  })
+ 
+ legoData.initialize()
+.then(authData.initialize)
+.then(()=>{
+  app.listen(HTTP_PORT, () => console.log(`server listening on: ${HTTP_PORT}`));
+})
