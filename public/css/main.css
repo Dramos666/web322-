@@ -2369,10 +2369,6 @@ html {
   overflow-x: auto;
 }
 
-.overflow-y-hidden {
-  overflow-y: hidden;
-}
-
 .rounded {
   border-radius: 0.25rem;
 }

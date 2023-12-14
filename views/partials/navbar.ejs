@@ -2,10 +2,15 @@
   <div class="flex-1">
     <a class="btn btn-ghost normal-case text-xl" href="/">Lego Collection</a>
   </div>
-  <div class="navbar-center hidden sm:flex">
+  <div class="flex-none">
     <ul class="menu menu-horizontal px-1">
-      <li><a class= "<%= (page == "/lego/sets") ? 'active' : '' %>" href="/lego/sets">View Collection</a></li>
-      <li><a class= "<%= (page == "/about") ? 'active' : '' %>" href="/about">About</a></li>
+      <li>
+          <a class="<%= (page == "/lego/sets") ? 'active' : '' %>" href="/lego/sets">View Collection</a>
+       
+      </li>
+      <li>
+          <a class="<%= (page == "/about") ? 'active' : '' %>" href="/about">About</a>
+      </li>
       <% if (session.user) { %>
         <li>
           <details>
